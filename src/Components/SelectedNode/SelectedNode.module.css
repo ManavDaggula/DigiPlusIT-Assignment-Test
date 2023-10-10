@@ -1,0 +1,14 @@
+.nodeSelected{
+    display: grid;
+    place-content: center;
+    place-items: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+    border-radius: 24px;
+    background-color: rgba(255,255,255,0.2);
+    padding: 1em;
+}
+/* .nodeSelected span:nth-child(2){
+    background-color: yellow;
+    outline: 2px solid yellow;
+} */
